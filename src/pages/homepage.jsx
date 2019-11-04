@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Directory from "./common/directory/directory";
+import Directory from "../components/common/directory/directory";
 import "../styles/homepage.scss";
 
 class HomePage extends Component {
